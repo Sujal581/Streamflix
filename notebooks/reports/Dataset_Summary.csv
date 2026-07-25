@@ -1,0 +1,7 @@
+Dataset,Rows,Columns,Missing,Duplicates,Memory(MB)
+Subscribers,15000,14,11199,0,7.29
+Titles,9000,21,1966,0,6.77
+Watch History,650000,10,0,0,189.6
+Ratings,130000,5,0,0,19.34
+Reviews,110000,7,70643,0,34.52
+Watchlist,65000,5,0,0,9.3

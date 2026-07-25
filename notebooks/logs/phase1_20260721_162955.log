@@ -1,0 +1,175 @@
+2026-07-21 16:29:55,939 | INFO | ================================================================================
+2026-07-21 16:29:55,941 | INFO | STREAMFLIX DATA CLEANING STARTED
+2026-07-21 16:29:55,941 | INFO | ================================================================================
+2026-07-21 16:30:01,707 | INFO | Loading data/raw/subscribers.csv
+2026-07-21 16:30:01,844 | INFO | Loaded Successfully
+2026-07-21 16:30:01,845 | INFO | Rows : 15000
+2026-07-21 16:30:01,847 | INFO | Columns : 14
+2026-07-21 16:30:01,848 | INFO | Loading data/raw/titles.csv
+2026-07-21 16:30:01,931 | INFO | Loaded Successfully
+2026-07-21 16:30:01,933 | INFO | Rows : 9000
+2026-07-21 16:30:01,933 | INFO | Columns : 21
+2026-07-21 16:30:01,944 | INFO | Loading data/raw/watch_history.csv
+2026-07-21 16:30:02,633 | INFO | Loaded Successfully
+2026-07-21 16:30:02,635 | INFO | Rows : 650000
+2026-07-21 16:30:02,635 | INFO | Columns : 10
+2026-07-21 16:30:02,636 | INFO | Loading data/raw/ratings.csv
+2026-07-21 16:30:02,752 | INFO | Loaded Successfully
+2026-07-21 16:30:02,753 | INFO | Rows : 130000
+2026-07-21 16:30:02,754 | INFO | Columns : 5
+2026-07-21 16:30:02,756 | INFO | Loading data/raw/reviews.csv
+2026-07-21 16:30:02,950 | INFO | Loaded Successfully
+2026-07-21 16:30:02,951 | INFO | Rows : 110000
+2026-07-21 16:30:02,952 | INFO | Columns : 7
+2026-07-21 16:30:02,952 | INFO | Loading data/raw/watchlist.csv
+2026-07-21 16:30:03,030 | INFO | Loaded Successfully
+2026-07-21 16:30:03,032 | INFO | Rows : 65000
+2026-07-21 16:30:03,033 | INFO | Columns : 5
+2026-07-21 16:30:03,034 | INFO | All datasets loaded successfully.
+2026-07-21 16:30:15,434 | INFO | ============================================================
+2026-07-21 16:30:15,436 | INFO | SUBSCRIBERS
+2026-07-21 16:30:15,437 | INFO | ============================================================
+2026-07-21 16:30:15,537 | INFO | ============================================================
+2026-07-21 16:30:15,538 | INFO | TITLES
+2026-07-21 16:30:15,539 | INFO | ============================================================
+2026-07-21 16:30:15,671 | INFO | ============================================================
+2026-07-21 16:30:15,672 | INFO | WATCH HISTORY
+2026-07-21 16:30:15,672 | INFO | ============================================================
+2026-07-21 16:30:16,151 | INFO | ============================================================
+2026-07-21 16:30:16,152 | INFO | RATINGS
+2026-07-21 16:30:16,153 | INFO | ============================================================
+2026-07-21 16:30:16,212 | INFO | ============================================================
+2026-07-21 16:30:16,213 | INFO | REVIEWS
+2026-07-21 16:30:16,214 | INFO | ============================================================
+2026-07-21 16:30:16,285 | INFO | ============================================================
+2026-07-21 16:30:16,287 | INFO | WATCHLIST
+2026-07-21 16:30:16,288 | INFO | ============================================================
+2026-07-21 16:44:28,237 | INFO | ================================================================================
+2026-07-21 16:44:28,240 | INFO | STREAMFLIX DATA CLEANING STARTED
+2026-07-21 16:44:28,242 | INFO | ================================================================================
+2026-07-21 16:44:28,309 | INFO | Loading data/raw/subscribers.csv
+2026-07-21 16:44:28,375 | INFO | Loaded Successfully
+2026-07-21 16:44:28,379 | INFO | Rows : 15000
+2026-07-21 16:44:28,380 | INFO | Columns : 14
+2026-07-21 16:44:28,382 | INFO | Loading data/raw/titles.csv
+2026-07-21 16:44:28,458 | INFO | Loaded Successfully
+2026-07-21 16:44:28,459 | INFO | Rows : 9000
+2026-07-21 16:44:28,461 | INFO | Columns : 21
+2026-07-21 16:44:28,462 | INFO | Loading data/raw/watch_history.csv
+2026-07-21 16:44:29,751 | INFO | Loaded Successfully
+2026-07-21 16:44:29,752 | INFO | Rows : 650000
+2026-07-21 16:44:29,753 | INFO | Columns : 10
+2026-07-21 16:44:29,754 | INFO | Loading data/raw/ratings.csv
+2026-07-21 16:44:29,939 | INFO | Loaded Successfully
+2026-07-21 16:44:29,941 | INFO | Rows : 130000
+2026-07-21 16:44:29,943 | INFO | Columns : 5
+2026-07-21 16:44:29,946 | INFO | Loading data/raw/reviews.csv
+2026-07-21 16:44:30,257 | INFO | Loaded Successfully
+2026-07-21 16:44:30,260 | INFO | Rows : 110000
+2026-07-21 16:44:30,262 | INFO | Columns : 7
+2026-07-21 16:44:30,263 | INFO | Loading data/raw/watchlist.csv
+2026-07-21 16:44:30,356 | INFO | Loaded Successfully
+2026-07-21 16:44:30,359 | INFO | Rows : 65000
+2026-07-21 16:44:30,360 | INFO | Columns : 5
+2026-07-21 16:44:30,363 | INFO | All datasets loaded successfully.
+2026-07-21 16:44:30,469 | INFO | ============================================================
+2026-07-21 16:44:30,471 | INFO | SUBSCRIBERS
+2026-07-21 16:44:30,474 | INFO | ============================================================
+2026-07-21 16:44:30,562 | INFO | ============================================================
+2026-07-21 16:44:30,563 | INFO | TITLES
+2026-07-21 16:44:30,565 | INFO | ============================================================
+2026-07-21 16:44:30,666 | INFO | ============================================================
+2026-07-21 16:44:30,667 | INFO | WATCH HISTORY
+2026-07-21 16:44:30,669 | INFO | ============================================================
+2026-07-21 16:44:31,452 | INFO | ============================================================
+2026-07-21 16:44:31,455 | INFO | RATINGS
+2026-07-21 16:44:31,457 | INFO | ============================================================
+2026-07-21 16:44:31,560 | INFO | ============================================================
+2026-07-21 16:44:31,562 | INFO | REVIEWS
+2026-07-21 16:44:31,564 | INFO | ============================================================
+2026-07-21 16:44:31,699 | INFO | ============================================================
+2026-07-21 16:44:31,701 | INFO | WATCHLIST
+2026-07-21 16:44:31,702 | INFO | ============================================================
+2026-07-21 16:44:32,880 | INFO | Checking Missing Values : Subscribers
+2026-07-21 16:44:32,914 | INFO | Checking Missing Values : Titles
+2026-07-21 16:44:32,937 | INFO | Checking Missing Values : Watch History
+2026-07-21 16:44:33,338 | INFO | Checking Missing Values : Ratings
+2026-07-21 16:44:33,408 | INFO | Checking Missing Values : Reviews
+2026-07-21 16:44:33,491 | INFO | Checking Missing Values : Watchlist
+2026-07-21 16:44:39,500 | INFO | Watch History : No Missing Values
+2026-07-21 16:44:39,529 | INFO | Ratings : No Missing Values
+2026-07-21 16:44:39,565 | INFO | Reviews : No Missing Values
+2026-07-21 16:44:39,581 | INFO | Watchlist : No Missing Values
+2026-07-21 16:44:39,693 | INFO | Subscribers Duplicate Rows : 0
+2026-07-21 16:44:39,717 | INFO | Titles Duplicate Rows : 0
+2026-07-21 16:44:40,413 | INFO | Watch History Duplicate Rows : 0
+2026-07-21 16:44:40,487 | INFO | Ratings Duplicate Rows : 0
+2026-07-21 16:44:40,611 | INFO | Reviews Duplicate Rows : 0
+2026-07-21 16:44:40,657 | INFO | Watchlist Duplicate Rows : 0
+2026-07-21 16:44:40,747 | INFO | Subscribers Removed 0 duplicate rows.
+2026-07-21 16:44:40,789 | INFO | Titles Removed 0 duplicate rows.
+2026-07-21 16:44:41,423 | INFO | Watch History Removed 0 duplicate rows.
+2026-07-21 16:44:41,504 | INFO | Ratings Removed 0 duplicate rows.
+2026-07-21 16:44:41,602 | INFO | Reviews Removed 0 duplicate rows.
+2026-07-21 16:44:41,646 | INFO | Watchlist Removed 0 duplicate rows.
+2026-07-21 16:44:41,746 | INFO | Subscribers
+2026-07-21 16:44:41,749 | INFO | Duplicate PK : 0
+2026-07-21 16:44:41,751 | INFO | Null PK : 0
+2026-07-21 16:44:41,756 | INFO | Titles
+2026-07-21 16:44:41,758 | INFO | Duplicate PK : 0
+2026-07-21 16:44:41,761 | INFO | Null PK : 0
+2026-07-21 16:44:41,801 | INFO | Watch History
+2026-07-21 16:44:41,804 | INFO | Duplicate PK : 0
+2026-07-21 16:44:41,809 | INFO | Null PK : 0
+2026-07-21 16:44:41,833 | INFO | Ratings
+2026-07-21 16:44:41,837 | INFO | Duplicate PK : 0
+2026-07-21 16:44:41,840 | INFO | Null PK : 0
+2026-07-21 16:44:41,849 | INFO | Reviews
+2026-07-21 16:44:41,856 | INFO | Duplicate PK : 0
+2026-07-21 16:44:41,859 | INFO | Null PK : 0
+2026-07-21 16:44:41,864 | INFO | Watchlist
+2026-07-21 16:44:41,866 | INFO | Duplicate PK : 0
+2026-07-21 16:44:41,867 | INFO | Null PK : 0
+2026-07-21 16:44:42,356 | INFO | Subscribers
+2026-07-21 16:44:42,360 | INFO | Titles
+2026-07-21 16:44:42,365 | INFO | Watch History
+2026-07-21 16:44:42,368 | INFO | Ratings
+2026-07-21 16:44:42,371 | INFO | Reviews
+2026-07-21 16:44:42,374 | INFO | Watchlist
+2026-07-21 16:44:50,579 | INFO | Intermediate cleaned files exported successfully.
+2026-07-21 16:44:50,639 | INFO | Checking Referential Integrity
+2026-07-21 16:44:50,900 | INFO | Invalid Subscriber IDs : 0
+2026-07-21 16:44:50,901 | INFO | Invalid Title IDs : 0
+2026-07-21 16:44:50,953 | INFO | Invalid Watchlist Subscriber : 0
+2026-07-21 16:44:50,954 | INFO | Invalid Watchlist Title : 0
+2026-07-21 16:44:50,988 | INFO | Invalid Churn Dates : 6
+2026-07-21 16:44:51,023 | INFO | Active Subscribers with Churn Date : 11199
+2026-07-21 16:44:51,074 | INFO | Completion Errors : 0
+2026-07-21 16:44:51,102 | INFO | Watch Duration Errors : 0
+2026-07-21 16:44:51,139 | INFO | Invalid Sentiment : 0
+2026-07-21 16:44:51,179 | INFO | Invalid Ratings : 0
+2026-07-21 16:44:51,245 | INFO | Invalid Age : 0
+2026-07-21 16:44:51,289 | INFO | Invalid Release Year : 0
+2026-07-21 16:44:51,382 | INFO | monthly_price_usd Outliers : 0
+2026-07-21 16:44:51,392 | INFO | age Outliers : 55
+2026-07-21 16:44:51,473 | INFO | watch_duration_min Outliers : 60005
+2026-07-21 16:44:51,487 | INFO | license_cost_usd Outliers : 700
+2026-07-21 16:44:51,498 | INFO | quality_score Outliers : 27
+2026-07-21 16:44:51,508 | INFO | total_watch_hours Outliers : 786
+2026-07-21 16:44:51,635 | INFO | Validation Report Exported
+2026-07-21 16:45:01,087 | INFO | All cleaned datasets exported successfully.
+2026-07-21 16:45:01,142 | INFO | Subscribers Health Score : 94.67%
+2026-07-21 16:45:01,164 | INFO | Titles Health Score : 98.96%
+2026-07-21 16:45:01,778 | INFO | Watch History Health Score : 100.0%
+2026-07-21 16:45:01,842 | INFO | Ratings Health Score : 100.0%
+2026-07-21 16:45:01,919 | INFO | Reviews Health Score : 90.83%
+2026-07-21 16:45:01,948 | INFO | Watchlist Health Score : 100.0%
+2026-07-21 16:45:01,968 | INFO | Dataset Health Report Saved.
+2026-07-21 16:45:05,560 | INFO | Data Quality PDF Report Generated Successfully.
+2026-07-21 16:45:05,573 | INFO | Execution Time : 37.34 Seconds
+2026-07-21 16:45:05,617 | INFO | ==========================================================================================
+2026-07-21 16:45:05,620 | INFO | STREAMFLIX PHASE 1 COMPLETED SUCCESSFULLY
+2026-07-21 16:45:05,621 | INFO | ==========================================================================================
+2026-07-21 16:45:05,623 | INFO | Execution Time : 37.34 Seconds
+2026-07-21 16:45:05,624 | INFO | Reports exported to reports/
+2026-07-21 16:45:05,624 | INFO | Cleaned datasets exported to data/cleaned/

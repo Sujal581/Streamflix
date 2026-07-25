@@ -1,0 +1,13 @@
+# Ignore files larger than GitHub limit
+notebooks/data/cleaned/EDA_Final.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Windows
+Thumbs.db
+.DS_Store

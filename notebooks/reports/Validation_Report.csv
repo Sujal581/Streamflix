@@ -1,0 +1,19 @@
+Validation,Failed Records
+Invalid Subscriber IDs,0
+Invalid Title IDs,0
+Invalid Watchlist Subscriber,0
+Invalid Watchlist Title,0
+Invalid Churn Date,6
+Active with Churn Date,11199
+Completion Errors,0
+Watch Duration Errors,0
+Invalid Sentiment,0
+Invalid Rating,0
+Invalid Age,0
+Invalid Release Year,0
+monthly_price_usd Outliers,0
+age Outliers,55
+watch_duration_min Outliers,60005
+license_cost_usd Outliers,700
+quality_score Outliers,27
+total_watch_hours Outliers,786

@@ -1,0 +1,51 @@
+2026-07-21 21:45:58,596 | INFO | ================================================================================
+2026-07-21 21:45:58,598 | INFO | PHASE 2 STARTED
+2026-07-21 21:45:58,600 | INFO | ================================================================================
+2026-07-21 21:46:01,856 | INFO | All cleaned datasets loaded.
+2026-07-21 21:46:01,874 | INFO | Subscribers Shape : (15000, 14)
+2026-07-21 21:46:01,877 | INFO | Titles Shape : (9000, 21)
+2026-07-21 21:46:01,878 | INFO | Watch History Shape : (650000, 12)
+2026-07-21 21:46:01,880 | INFO | Ratings Shape : (130000, 5)
+2026-07-21 21:46:01,881 | INFO | Reviews Shape : (110000, 7)
+2026-07-21 21:46:01,883 | INFO | Watchlist Shape : (65000, 5)
+2026-07-21 21:46:03,028 | INFO | Merged Dataset Created
+2026-07-21 21:46:07,922 | INFO | Feature Engineering Completed
+2026-07-21 21:46:34,496 | INFO | 01_Monthly_Viewing_Sessions.png saved successfully.
+2026-07-21 21:46:37,503 | INFO | 02_Monthly_Watch_Hours.png saved successfully.
+2026-07-21 21:46:37,955 | INFO | 03_Content_Type_Share.png saved successfully.
+2026-07-21 21:46:38,650 | INFO | 04_Genre_Watch_Hours.png saved successfully.
+2026-07-21 21:46:39,328 | INFO | 05_Top_Countries.png saved successfully.
+2026-07-21 21:46:40,041 | INFO | 06_Top10_Titles.png saved successfully.
+2026-07-21 21:46:40,452 | INFO | 07_Original_vs_Licensed.png saved successfully.
+2026-07-21 21:46:41,008 | INFO | 08_Languages.png saved successfully.
+2026-07-21 21:46:41,651 | INFO | 09_Release_Year.png saved successfully.
+2026-07-21 21:46:42,213 | INFO | 10_Quality_Score.png saved successfully.
+2026-07-21 21:46:42,610 | INFO | Genre summary exported.
+2026-07-21 21:46:42,833 | INFO | 11_Subscriber_Plans.png saved successfully.
+2026-07-21 21:46:42,883 | INFO | Subscriber Plan chart generated.
+2026-07-21 21:46:43,213 | INFO | 12_Device_Usage.png saved successfully.
+2026-07-21 21:46:43,593 | INFO | 13_Primary_Device.png saved successfully.
+2026-07-21 21:46:43,990 | INFO | 14_Age_Distribution.png saved successfully.
+2026-07-21 21:46:44,313 | INFO | 15_Gender.png saved successfully.
+2026-07-21 21:46:44,845 | INFO | 16_Genre_Completion.png saved successfully.
+2026-07-21 21:46:45,272 | INFO | 17_WatchTime_by_Plan.png saved successfully.
+2026-07-21 21:46:45,807 | INFO | 18_Top_Subscribers.png saved successfully.
+2026-07-21 21:46:46,254 | INFO | 19_Review_Sentiment.png saved successfully.
+2026-07-21 21:46:46,729 | INFO | 20_Rating_Distribution.png saved successfully.
+2026-07-21 21:46:47,211 | INFO | 21_HelpfulVotes.png saved successfully.
+2026-07-21 21:46:47,598 | INFO | 22_Watchlist_Conversion.png saved successfully.
+2026-07-21 21:46:47,927 | INFO | Subscriber Summary Exported.
+2026-07-21 21:46:47,981 | INFO | Business Insights Exported.
+2026-07-21 21:56:06,230 | INFO | 23_Correlation_Heatmap.png saved successfully.
+2026-07-21 21:56:31,425 | INFO | 24_WatchDuration_Boxplot.png saved successfully.
+2026-07-21 21:56:33,327 | INFO | 25_Completion_Distribution.png saved successfully.
+2026-07-21 21:56:34,941 | INFO | 26_Monthly_Signups.png saved successfully.
+2026-07-21 21:56:36,388 | INFO | 27_Completion_by_Plan.png saved successfully.
+2026-07-21 21:56:37,842 | INFO | 28_Genre_Rating.png saved successfully.
+2026-07-21 21:56:39,209 | INFO | 29_Active_vs_Inactive.png saved successfully.
+2026-07-21 21:56:40,544 | INFO | 30_Country_Subscribers.png saved successfully.
+2026-07-21 21:58:54,760 | INFO | Business Recommendations Generated.
+2026-07-21 21:59:20,953 | INFO | EDA Dataset Exported.
+2026-07-21 21:59:30,967 | INFO | ================================================================================
+2026-07-21 21:59:30,969 | INFO | PHASE 2 COMPLETED SUCCESSFULLY
+2026-07-21 21:59:30,970 | INFO | ================================================================================

@@ -1,0 +1,12 @@
+STREAMFLIX MANAGEMENT REPORT
+
+Total Subscribers : 15000
+Monthly Recurring Revenue : $175868.51
+Average Revenue Per User : $15.7
+Retention Rate : 73.66%
+Churn Rate : 100.0%
+Total Watch Hours : 3333467.73
+Average Completion : 65.31%
+Average Rating : 3.55
+Hit Concentration : 50.6%
+Original Share : 21.84%
